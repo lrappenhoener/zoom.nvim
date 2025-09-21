@@ -8,7 +8,7 @@ Written in pure Lua, no dependencies.
 - Restore previous size on un-toggle
 - Per-window state (you can maximize different windows independently)
 - Pure Lua, no dependencies
-- Provides `:ToggleMaximize` command and `<leader>wt` mapping by default
+- Provides `:ToggleMaximize` command and `<leader>wz` mapping by default
 
 ## Installation
 
